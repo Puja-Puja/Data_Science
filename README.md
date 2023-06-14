@@ -1,2 +1,2 @@
 # Data_Science
-Projects related data science
+Projects related to data science
